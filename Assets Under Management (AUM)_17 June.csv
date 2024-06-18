@@ -1,0 +1,52 @@
+,,,,,,,,,,,,,,,
+,Sr. No.,Company Name,Asset Type,Quantity,Purchase Price,Current Price,Market Value,Purchase Date,Currency,Geographic Location,Sector,Investment Type,Investment Pool,Manager,Notes
+,1,Arab Bank,Bonds,200,50,55,11000,1/1/2023,EUR,Switzerland,Finance,International Investment,International Diversified Pool,Abdullah Altuwaijri,Long-term hold
+,2,Alinma Bank,Stocks,200,100,105,21000,1/2/2023,SAR,Saudi Arabia,Financial Services,Local Investment,Saudi Equity Holdings,Alhanoof Aloumi,Maturing 2025
+,3,ALUIa Development Company,Real Estate,50,200,250,12500,1/3/2023,SAR,Saudi Arabia,Real Estate,Local Real Estate,Saudi Sector Development,Eyas A. Aldossari,Commercial properties
+,4,The Saudi National Bank (SNB),Mutual Fund,300,10,15,4500,1/4/2023,EUR,Europe,Financial Services,MENA Investments,Saudi Equity Holdings,Faizan Baig,High-risk fund
+,5,Diriyah Company,Real Estate,200,50,55,11000,1/5/2023,SAR,Saudi Arabia,Real Estate,PIF Owned Companies,Saudi Giga-projects,Ghada Alalshiekh,Long-term hold
+,6,Reliance Retail,Stocks,200,100,105,21000,1/6/2023,USD,India,Consumer Goods and Retail,International Investment,International Strategic Investments,Abdullah Altuwaijri,Maturing 2026
+,7,Umm Al Qura Construction & Development,Stocks,50,200,250,12500,1/7/2023,SAR,Saudi Arabia,Real Estate,Local Investment,Saudi Real Estate & Infrastructure Development,Alhanoof Aloumi,Commercial properties
+,8,Saudi Arabian Military Industries,Mutual Fund,300,10,15,4500,1/8/2023,SAR,Saudi Arabia,Aerospace and Defense,PIF Owned Companies,Saudi Sector Development,Eyas A. Aldossari,High-risk fund
+,9,Saudi Facilities Management Company,Real Estate,200,50,55,11000,1/9/2023,SAR,Saudi Arabia,Real Estate,MENA Investments,Saudi Real Estate & Infrastructure Development,Faizan Baig,Long-term hold
+,10,NEOM,Real Estate,200,100,105,21000,1/10/2023,USD,Saudi Arabia,Real Estate,PIF Owned Companies,Saudi Giga-projects,Ghada Alalshiekh,Maturing 2027
+,11,Riyadh Bank,Stocks,50,200,250,12500,1/11/2023,SAR,Saudi Arabia,Financial Services,Local Real Estate,Saudi Equity Holdings,Abdullah Altuwaijri,Commercial properties
+,12,Riyadh Air,Stocks,300,10,15,4500,1/12/2023,SAR,Saudi Arabia,Aerospace and Defense,Local Investment,Saudi Sector Development,Alhanoof Aloumi,High-risk fund
+,13,New Murabba,Real Estate,200,50,55,11000,1/13/2023,SAR,Saudi Arabia,Real Estate,PIF Owned Companies,Saudi Real Estate & Infrastructure Development,Eyas A. Aldossari,Long-term hold
+,14,Badael Company,Stocks,200,100,105,21000,1/14/2023,SAR,Saudi Arabia,Healthcare,MENA Investments,Saudi Sector Development,Faizan Baig,Maturing 2028
+,15,ROSHN,Real Estate,50,200,250,12500,1/15/2023,SAR,Saudi Arabia,Real Estate,PIF Owned Companies,Saudi Giga-projects,Ghada Alalshiekh,Commercial properties
+,16,Jio Platforms Ltd.,Stocks,300,10,15,4500,1/16/2023,USD,India,"Telecom, Media and Technology",International Investment,International Strategic Investments,Abdullah Altuwaijri,High-risk fund
+,17,Saudi Telecom Company (STC),Stocks,200,50,55,11000,1/17/2023,SAR,Saudi Arabia,"Telecom, Media and Technology",Local Investment,Saudi Equity Holdings,Alhanoof Aloumi,Long-term hold
+,18,King Abdullah Financial District (KAFD),Real Estate,200,100,105,21000,1/18/2023,SAR,Saudi Arabia,Real Estate,PIF Owned Companies,Saudi Real Estate & Infrastructure Development,Eyas A. Aldossari,Maturing 2029
+,19,Arab Bank Amman,Bonds,50,200,250,12500,1/19/2023,USD,Jordan,Financial Services,MENA Investments,Saudi Equity Holdings,Faizan Baig,Commercial properties
+,20,The Saudi Agriculture and Livestock Investment Company (SALIC),Bonds,300,10,15,4500,1/20/2023,SAR,Saudi Arabia,Consumer Goods and Retail,PIF Owned Companies,Saudi Sector Development,Ghada Alalshiekh,High-risk fund
+,21,Lucid Motors Inc.,Stocks,200,50,55,11000,1/21/2023,USD,United States of America,Automotive,International Investment,International Strategic Investments,Abdullah Altuwaijri,Long-term hold
+,22,Taiba Investments Company,Bonds,200,100,105,21000,1/22/2023,SAR,Saudi Arabia,Real Estate,Local Investment,Saudi Real Estate & Infrastructure Development,Alhanoof Aloumi,Maturing 2030
+,23,National Security Service Company (SAFE),Mutual Fund,50,200,250,12500,1/23/2023,SAR,Saudi Arabia,Diversified,PIF Owned Companies,Saudi Sector Development,Eyas A. Aldossari,Commercial properties
+,24,Boutique Group,Real Estate,300,10,15,4500,1/24/2023,SAR,Saudi Arabia,Real Estate,MENA Investments,Saudi Real Estate & Infrastructure Development,Faizan Baig,High-risk fund
+,25,Saudi Information Technology Company (SITE),Stocks,200,50,55,11000,1/25/2023,SAR,Saudi Arabia,"Telecom, Media and Technology",PIF Owned Companies,Saudi Sector Development,Ghada Alalshiekh,Long-term hold
+,26,AccorInvest Group,Bonds,200,100,105,21000,1/26/2023,EUR,France,"Entertainment, Leisure and Sports",International Investment,International Strategic Investments,Abdullah Altuwaijri,Maturing 2031
+,27,Noon Investment,Mutual Fund,50,200,250,12500,1/27/2023,SAR,Saudi Arabia,Consumer Goods and Retail,Local Investment,Saudi Sector Development,Alhanoof Aloumi,Commercial properties
+,28,Saudi Investment Recycling Company,Bonds,300,10,15,4500,1/28/2023,SAR,Saudi Arabia,Utilities and Renewables,PIF Owned Companies,Saudi Sector Development,Eyas A. Aldossari,High-risk fund
+,29,Ceer,Stocks,200,50,55,11000,1/29/2023,SAR,Saudi Arabia,Automotive,MENA Investments,Saudi Sector Development,Faizan Baig,Long-term hold
+,30,Red Sea Global,Real Estate,200,100,105,21000,1/30/2023,SAR,Saudi Arabia,Real Estate,PIF Owned Companies,Saudi Giga-projects,Ghada Alalshiekh,Maturing 2032
+,31,Saudi Ceramic Company,Stocks,50,200,250,12500,1/31/2023,SAR,Saudi Arabia,Construction and Building Components and Services,Local Real Estate,Saudi Equity Holdings,Abdullah Altuwaijri,Commercial properties
+,32,Saudi Transport Company (SAPTCO),Stocks,300,10,15,4500,2/1/2023,SAR,Saudi Arabia,Transport and Logistic,Local Investment,Saudi Equity Holdings,Alhanoof Aloumi,High-risk fund
+,33,Jeddah Central Development Company,Real Estate,200,50,55,11000,2/2/2023,SAR,Saudi Arabia,Real Estate,PIF Owned Companies,Saudi Real Estate & Infrastructure Development,Eyas A. Aldossari,Long-term hold
+,34,Kuwaiti Food Co. (Americana),Mutual Fund,200,100,105,21000,2/3/2023,USD,Kuwait,Consumer Goods and Retail,MENA Investments,Saudi Sector Development,Faizan Baig,Maturing 2033
+,35,Saudi Railway Company (SAR),Real Estate,50,200,250,12500,2/4/2023,SAR,Saudi Arabia,Real Estate,PIF Owned Companies,Saudi Real Estate & Infrastructure Development,Ghada Alalshiekh,Commercial properties
+,36,Uber Technologies Incorporation,Stocks,300,10,15,4500,2/5/2023,USD,United States of America,"Telecom, Media and Technology",International Investment,International Strategic Investments,Abdullah Altuwaijri,High-risk fund
+,37,Saudi Real Estate Company,Real Estate,200,50,55,11000,2/6/2023,SAR,Saudi Arabia,Real Estate,Local Investment,Saudi Real Estate & Infrastructure Development,Alhanoof Aloumi,Long-term hold
+,38,The National Unified Procurement Company (nupco),Stocks,200,100,105,21000,2/7/2023,SAR,Saudi Arabia,Healthcare,PIF Owned Companies,Saudi Sector Development,Eyas A. Aldossari,Maturing 2034
+,39,The Rig,Real Estate,50,200,250,12500,2/8/2023,SAR,Saudi Arabia,Real Estate,MENA Investments,Saudi Real Estate & Infrastructure Development,Faizan Baig,Commercial properties
+,40,Savvy Games Group,Stocks,300,10,15,4500,2/9/2023,SAR,Saudi Arabia,"Entertainment, Leisure and Sports",PIF Owned Companies,Saudi Sector Development,Ghada Alalshiekh,High-risk fund
+,41,Magic Leap Incorporated company,Mutual Fund,200,50,55,11000,2/10/2023,USD,United States of America,"Telecom, Media and Technology",International Investment,International Strategic Investments,Abdullah Altuwaijri,Long-term hold
+,42,Arcelormittal Tubular Products Al-Jubail Co.,Stocks,200,100,105,21000,2/11/2023,SAR,Saudi Arabia,Metals and Mining,Local Investment,Saudi Sector Development,Alhanoof Aloumi,Maturing 2035
+,43,Soudah Development,Real Estate,50,200,250,12500,2/12/2023,SAR,Saudi Arabia,Real Estate,PIF Owned Companies,Saudi Real Estate & Infrastructure Development,Eyas A. Aldossari,Commercial properties
+,44,Halal Products Development Conpany,Stocks,300,10,15,4500,2/13/2023,SAR,Saudi Arabia,Food and Agriculture,MENA Investments,Saudi Sector Development,Faizan Baig,High-risk fund
+,45,Qiddiya,Real Estate,200,50,55,11000,2/14/2023,SAR,Saudi Arabia,Real Estate,PIF Owned Companies,Saudi Giga-projects,Ghada Alalshiekh,Long-term hold
+,46,Softbank Group Corp,Bonds,200,100,105,21000,2/15/2023,USD,Japan,Financial Services,International Investment,International Strategic Investments,Abdullah Altuwaijri,Maturing 2036
+,47,Saudi Electricity Company (SEC),Stocks,50,200,250,12500,2/16/2023,SAR,Saudi Arabia,Utilities and Renewables,Local Investment,Saudi Equity Holdings,Alhanoof Aloumi,Commercial properties
+,48,Southern Province Cement (SPCC),Stocks,300,10,15,4500,2/17/2023,SAR,Saudi Arabia,Construction and Building Components and Services,Local Real Estate,Saudi Equity Holdings,Eyas A. Aldossari,High-risk fund
+,49,The Saudi Jordanian Investment Fund,Bonds,200,50,55,11000,2/18/2023,USD,Jordan,Diversified,MENA Investments,Saudi Sector Development,Faizan Baig,Long-term hold
+,50,National Water Company (NWC),Stocks,200,100,105,21000,2/19/2023,SAR,Saudi Arabia,Utilities and Renewables,PIF Owned Companies,Saudi Sector Development,Ghada Alalshiekh,Long-term hold
